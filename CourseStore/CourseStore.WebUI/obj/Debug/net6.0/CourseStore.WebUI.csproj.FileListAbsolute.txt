@@ -1,0 +1,195 @@
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\appsettings.Development.json
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\appsettings.json
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.staticwebassets.runtime.json
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.exe
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.deps.json
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.runtimeconfig.json
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.pdb
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.DAL.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.DAL.pdb
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.AssemblyReference.cache
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.AssemblyInfoInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.AssemblyInfo.cs
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.MvcApplicationPartsAssemblyInfo.cache
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.RazorAssemblyInfo.cache
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.RazorAssemblyInfo.cs
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\bundle\CourseStore.WebUI.styles.css
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\CourseStore.WebUI.bundle.scp.css
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.CopyComplete
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\refint\CourseStore.WebUI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.pdb
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.genruntimeconfig.cache
+F:\Source\Samples\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\ref\CourseStore.WebUI.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Humanizer.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.BusinessLogic.dll
+F:\Source\Samples\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.BusinessLogic.pdb
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\appsettings.Development.json
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\appsettings.json
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.staticwebassets.runtime.json
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.exe
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.deps.json
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.runtimeconfig.json
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.pdb
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Humanizer.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.BusinessLogic.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.DAL.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.BusinessLogic.pdb
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.DAL.pdb
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.AssemblyReference.cache
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.AssemblyInfoInputs.cache
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.AssemblyInfo.cs
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.CoreCompileInputs.cache
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.MvcApplicationPartsAssemblyInfo.cache
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.RazorAssemblyInfo.cache
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.RazorAssemblyInfo.cs
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\bundle\CourseStore.WebUI.styles.css
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\CourseStore.WebUI.bundle.scp.css
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.CopyComplete
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\refint\CourseStore.WebUI.dll
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.pdb
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.genruntimeconfig.cache
+E:\pro.net\10. Workshop - 01\CourseStore.WebUI\obj\Debug\net6.0\ref\CourseStore.WebUI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\appsettings.Development.json
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\appsettings.json
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.staticwebassets.runtime.json
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.exe
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.deps.json
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.runtimeconfig.json
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.WebUI.pdb
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Humanizer.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.BusinessLogic.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.DAL.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.BusinessLogic.pdb
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\bin\Debug\net6.0\CourseStore.DAL.pdb
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.AssemblyReference.cache
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.AssemblyInfoInputs.cache
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.AssemblyInfo.cs
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.CoreCompileInputs.cache
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.MvcApplicationPartsAssemblyInfo.cache
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.RazorAssemblyInfo.cache
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.RazorAssemblyInfo.cs
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\bundle\CourseStore.WebUI.styles.css
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\CourseStore.WebUI.bundle.scp.css
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.csproj.CopyComplete
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\refint\CourseStore.WebUI.dll
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.pdb
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\CourseStore.WebUI.genruntimeconfig.cache
+E:\pro.net\WorkShop\Resume Sampel\CourseStore\CourseStore\CourseStore\CourseStore.WebUI\obj\Debug\net6.0\ref\CourseStore.WebUI.dll
